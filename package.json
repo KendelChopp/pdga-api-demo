@@ -1,0 +1,20 @@
+{
+  "name": "pdga-api-demo",
+  "version": "1.0.0",
+  "description": "PDGA Api Demo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KendelChopp/pdga-api-demo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KendelChopp/pdga-api-demo/issues"
+  },
+  "homepage": "https://github.com/KendelChopp/pdga-api-demo#readme",
+  "dependencies": {
+    "@kendelchopp/pdga-api": "^1.0.0",
+    "dotenv": "^16.0.1"
+  }
+}
